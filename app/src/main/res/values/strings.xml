@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">QIT</string>
+    <string name="welcome_to_qit">Welcome to QIT</string>
+    <string name="enter_your_email_address">Enter your email address</string>
+    <string name="password_here">password here..</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="sign_out">SIGN UP</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="create_an_account_at_qit">Create an account at QIT</string>
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidProjects/QIT/app/src/main/res/drawable/circle_bg.xml" value="0.23958333333333334" />
+        <entry key="..\:/AndroidProjects/QIT/app/src/main/res/drawable/gradient.xml" value="0.23958333333333334" />
+        <entry key="..\:/AndroidProjects/QIT/app/src/main/res/drawable/ic_building.xml" value="0.2015625" />
+        <entry key="..\:/AndroidProjects/QIT/app/src/main/res/drawable/ic_email_icon.xml" value="0.21927083333333333" />
+        <entry key="..\:/AndroidProjects/QIT/app/src/main/res/drawable/tab_bg.xml" value="0.23958333333333334" />
+        <entry key="..\:/AndroidProjects/QIT/app/src/main/res/drawable/tablayout_bg.xml" value="0.21979166666666666" />
+        <entry key="..\:/AndroidProjects/QIT/app/src/main/res/layout/activity_home.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/QIT/app/src/main/res/layout/categories.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/QIT/app/src/main/res/layout/home.xml" value="0.21927083333333333" />
+        <entry key="..\:/AndroidProjects/QIT/app/src/main/res/layout/home_rv_holder.xml" value="0.536" />
+        <entry key="..\:/AndroidProjects/QIT/app/src/main/res/layout/item_holder.xml" value="0.21927083333333333" />
+        <entry key="..\:/AndroidProjects/QIT/app/src/main/res/layout/sign_in_fragment.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/QIT/app/src/main/res/layout/sign_in_up.xml" value="0.2" />
+        <entry key="..\:/AndroidProjects/QIT/app/src/main/res/layout/sign_in_up_activity.xml" value="0.21927083333333333" />
+        <entry key="..\:/AndroidProjects/QIT/app/src/main/res/layout/sign_out_fragment.xml" value="0.264" />
+        <entry key="..\:/AndroidProjects/QIT/app/src/main/res/layout/viewpager_holder.xml" value="0.21927083333333333" />
+        <entry key="..\:/AndroidProjects/QIT/app/src/main/res/menu/home.xml" value="0.21927083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

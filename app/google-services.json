@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1024594794634",
+    "project_id": "qits-401cb",
+    "storage_bucket": "qits-401cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024594794634:android:797e62516136c9616d3573",
+        "android_client_info": {
+          "package_name": "com.adi.qit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024594794634-itci0fbbmtu1os7ruur55jeeao17pip6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIN5LeIfTziZZ8dnzO4Z8rFAEUCSfilAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1024594794634-itci0fbbmtu1os7ruur55jeeao17pip6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
